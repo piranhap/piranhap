@@ -4,6 +4,8 @@
 
 - <b>CTF cherrytree document template</b>
   - Use is document as a reference when doing Vulnhub machines or CTF competitions. Still working on it (https://github.com/piranhap/ctf_template)
+
+- ** [Securing Smartphones]**(https://github.com/piranhap/Secure-Smartphones)
 - <b> Working on: </b>
   - Designing and deploying my homelab 
   - CompTIA A+ 
