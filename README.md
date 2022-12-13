@@ -6,7 +6,7 @@
   - Use is document as a reference when doing Vulnhub machines or CTF competitions. Still working on it (https://github.com/piranhap/ctf_template)
 
 - <b> [Securing Smartphones]</b>
-  - Please use this document as a reference when trying to keep smartphones secure  (https://github.com/piranhap/Secure-Smartphones)
+  - Please use this document as a reference when trying to keep smartphones secure   (https://github.com/piranhap/Secure-Smartphones)
 - <b> Working on: </b>
   - Designing and deploying my homelab 
   - CompTIA A+ 
